@@ -17,3 +17,5 @@ myButton.addEventListener("click", function(){
 
 })
 
+var number = 10
+console.log(number + number)
